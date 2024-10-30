@@ -9,7 +9,7 @@ section {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  padding: 100px;
+  padding: 79px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -53,10 +53,11 @@ header ul li a {
 .content .textBox {
   position: relative;
   max-width: 600px;
+  margin-left: 35px;
 }
 .content .textBox h2 {
   color: #333;
-  font-size: 4em;
+  font-size: 3em;
   line-height: 1.4em;
   font-weight: 500;
 }
@@ -66,6 +67,7 @@ header ul li a {
   font-weight: 900;
 }
 .content .textBox p {
+  margin-top: 15px;
   color: #333;
 }
 .content .textBox a {
